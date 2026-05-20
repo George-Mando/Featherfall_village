@@ -26,7 +26,6 @@
 > *Eclipse the ordinary. Build what others can't imagine.*
 
 [![▶ PLAY FEATHERFALL VILLAGE](https://img.shields.io/badge/%E2%96%B6_PLAY_FEATHERFALL_VILLAGE-ff6b2a?style=for-the-badge&logoColor=black&labelColor=000000)](https://george-mando.github.io/Featherfall_village/)
-[![▶ PLAY BIRDY BLOCKS](https://img.shields.io/badge/%E2%96%B6_PLAY_BIRDY_BLOCKS-00e5ff?style=for-the-badge&logoColor=black&labelColor=000000)](https://george-mando.github.io/Featherfall_village/)
 
 **XenClipse Studios · Portfolio · Game Dev Hub**
 
