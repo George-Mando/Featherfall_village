@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Mando&theme=react-dark&bg_color=000000&color=00e5ff&line=ff6b2a&point=ff2d78&area=true&hide_border=true)](https://github.com/Birdy-Blocks-)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Mando&theme=react-dark&bg_color=000000&color=00e5ff&line=ff6b2a&point=ff2d78&area=true&hide_border=true)](https://github.com/Featherfall_village)
 
 </div>
 
@@ -30,7 +30,7 @@
 > *Eclipse the ordinary. Build what others can't imagine.*
 
 <!-- NOTE: Replace the URL below once your GitHub Pages site is live -->
-[![PLAY BIRDY BLOCKS](https://img.shields.io/badge/▶_PLAY_BIRDY_BLOCKS-ff6b2a?style=for-the-badge&logoColor=black&labelColor=000000)](https://george-mando.github.io/Birdy-Blocks/)
+[![PLAY FEATHERFALL VILLAGE](https://img.shields.io/badge/▶_PLAY_BIRDY_BLOCKS-ff6b2a?style=for-the-badge&logoColor=black&labelColor=000000)](https://george-mando.github.io/Featherfall_village/)
 
 **XenClipse Studios · Portfolio · Game Dev Hub**
 
